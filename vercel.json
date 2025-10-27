@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-    { "src": "/respondio", "dest": "respondio.js" }
+    { "src": "/respondio", "dest": "/respondio.js" }
   ]
 }
