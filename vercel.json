@@ -1,8 +1,6 @@
 {
   "version": 2,
   "routes": [
-    { "src": "/filter_channel
-/respondio", "dest": "/filter_channel
-/respondio.js" }
+    { "src": "/filter_channel/respondio", "dest": "/filter_channel/respondio.js" }
   ]
 }
